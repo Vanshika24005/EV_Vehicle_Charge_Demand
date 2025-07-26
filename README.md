@@ -5,4 +5,5 @@ Goal: Build a regression model that forecasts future EV adoption demand based on
 Dataset: This dataset shows the number of vehicles that were registered by Washington State Department of Licensing (DOL) each month. The data is separated by county for passenger vehicles and trucks.
 
 Running on Colab:
-https://colab.research.google.com/drive/1p5ntyys-xUts5FpHFDrxVKx6GsJeR9L5?usp=sharing
+https://colab.research.google.com/drive/11gTj1UwxLsj_0qufGy3J84eN8xgWPkV4?usp=sharing
+
